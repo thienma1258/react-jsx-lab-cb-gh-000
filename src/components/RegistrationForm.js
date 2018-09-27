@@ -4,9 +4,9 @@ export default RegistrationForm extends React.Component{
   render(){
       return (
       <form>
-<input type="text" />   
+<input type="text" />
 <input type="password" />
-<input type="submit"/>  
+<button type="submit"/>
   </form>
       );
 }
